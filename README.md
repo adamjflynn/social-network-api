@@ -20,6 +20,7 @@
   ## Tests
   
   Tested using Insomnia Core with links to the walk through videos below:
+  
   [Walk through video showing the User and Friend routes working as intended](https://watch.screencastify.com/v/sbV1twvaJeD3eVFtRIbI)
   [Walk through video showing the Thought and Reaction routes working as intended](https://watch.screencastify.com/v/N4CH8kf7IUNtGDQ8j3Da)
   
